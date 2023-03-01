@@ -1,3 +1,5 @@
+using CompositePattern.Models;
+
 namespace CompositePattern
 {
     public class File : TreeComponent
